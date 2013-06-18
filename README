@@ -9,3 +9,8 @@ Instructions
 	</array>
 
 3 - Drag UITextView to any of your view controllers, set its class to ThaanaTextView. Customize UITextView if needed.
+
+
+TODO
+*change to unicode
+*dates and numbers.
